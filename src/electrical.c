@@ -36,5 +36,5 @@ imj_status imj_power(
 }
 
 const char *imj_version(void) {
-    return "0.1.0";
+    return "0.0.1-dev";
 }
