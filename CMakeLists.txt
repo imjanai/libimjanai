@@ -8,6 +8,8 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 
 add_library(imjanai STATIC
     src/electrical.c
+    src/power.c
+    src/current.c
 )
 
 target_include_directories(imjanai PUBLIC
