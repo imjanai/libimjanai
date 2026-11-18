@@ -1,4 +1,3 @@
-
 #include "imjanai.h"
 #include <math.h>
 
